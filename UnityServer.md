@@ -65,12 +65,14 @@ URL = ws://localhost:3000/socket.io/?EIO=4&transport=websocket
 
 # Client実行(defaultは個人のレンタルサーバー)
 ## 接続したいIPを変更したい場合は
+
 <p align="center"><img src="./doc/ipConnect.JPG" width= 50%></p>
 
 赤いbox : ws://**localhost**:3000/socket.io/?EIO=4&transport=websocket  
 localhostのみ自分が変更したいなIPを変更
 
 ## Title画面(Client1)
+
 <p align="center"><img src="./doc/Title1.JPG" width= 50%></p>
 
 赤いbox : Roomの名前入力してRoom Create **Button**を押すとゲームに入る。  
@@ -79,6 +81,7 @@ localhostのみ自分が変更したいなIPを変更
 <div style="page-break-before:always"></div>
 
 ## Title画面(Client2)
+
 <p align="center"><img src="./doc/Title2.JPG" width= 50%></p>
 
 赤いbox : 生成されたRoom Listが表示してその**Button**を押すとゲームに入る。  
@@ -86,6 +89,7 @@ localhostのみ自分が変更したいなIPを変更
 青い色box : ゲームの勝利を判定
 
 ## Game画面(待機)
+
 <p align="center"><img src="./doc/Game.JPG" width= 50%></p>
 
 赤いbox : Player1のUUIDを表示(先にRoomに入れたClient)  
@@ -95,6 +99,7 @@ Client1は別のClient2が入るまでに待機する。
 <div style="page-break-before:always"></div>
 
 ## Game画面(プレイ)
+
 <p align="center">
 <img src="./doc/Game2.JPG" width= 48%>
 <img src="./doc/Game3.JPG" width= 48%>
@@ -209,6 +214,7 @@ using System;
 ```
 
 # Jenkinsで自動配信
+
 <p align="center">
 <img src="./doc/jenkins.JPG" width= 48%>
 </p>
