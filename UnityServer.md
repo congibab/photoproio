@@ -220,7 +220,6 @@ using System;
 <img src="./doc/jenkins.JPG" width= "48%">
 </p>
 
-## 説明
 Githubでdata push -> Jenkins foreverでサーバ更新して再起動 -> Slackに通常  
 流れに自動化を構築しました。
 
