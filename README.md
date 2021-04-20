@@ -1,6 +1,7 @@
 # プロフィール
 * 名前 : LEE GEONHWI(イ ゴンヒ)
-* 所属 : 東京デザインテクノロジーセンター専門学校、ゲームプログラマー専攻、3年生
+* 所属 : 東京デザインテクノロジーセンター専門学校、ゲームプログラマー専攻、3年生 
+
 
 # 目次
 
@@ -9,8 +10,8 @@
 
 * 製作意図 : OpenGLで3Dグラフィックス研究目的です。  
 * 使用言語 : C++, GLSL  
-* [ソースコード](./OpenGL_Game)  
-* [YouTube動画](https://youtu.be/C13nFixrUdM)
+* [ソースコード](./OpenGL_Game):octocat:
+* [YouTube動画](https://youtu.be/C13nFixrUdM):vhs:
 
 ## 2.UnityServer
 <img src="https://img.youtube.com/vi/Q4Arop1ba_M/0.jpg" width= "50%" height="50%">
@@ -18,7 +19,7 @@
 * 製作意図 : レンタルサーバーとUnityで使ったネットワークゲームです。  
 * 使用言語 : Node.js, C#  
 * [ソースコード](./UnityServer)  
-* [YouTube動画](https://youtu.be/Q4Arop1ba_M)
+* [YouTube動画](https://youtu.be/Q4Arop1ba_M):arrow_forward:
 
 ## 3.Frist-imgui-glfw3
 <img src="https://img.youtube.com/vi/h1-rcwjNfMk/0.jpg" width= "50%" height="50%">
