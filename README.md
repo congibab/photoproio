@@ -10,8 +10,8 @@
 
 * 製作意図 : OpenGLで3Dグラフィックス研究目的です。  
 * 使用言語 : C++, GLSL  
-* [ソースコード](./OpenGL_Game):octocat:
-* [YouTube動画](https://youtu.be/C13nFixrUdM):vhs:
+* [ソースコード](./OpenGL_Game)📼
+* [YouTube動画](https://youtu.be/C13nFixrUdM)📼
 
 ## 2.UnityServer
 <img src="https://img.youtube.com/vi/Q4Arop1ba_M/0.jpg" width= "50%" height="50%">
