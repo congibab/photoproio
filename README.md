@@ -5,6 +5,8 @@
 # 目次
 
 ## 1.OpenGL_Game
+![https://img.youtube.com/vi/AXCVxSYtJSU/0.jpg](https://img.youtube.com/vi/AXCVxSYtJSU/0.jpg){: width="50%" height="50%a"}
+
 * 製作意図 : OpenGLで3Dグラフィックス研究目的です。  
 * 使用言語 : C++, GLSL  
 * [ソースコード](./OpenGL_Game)  
