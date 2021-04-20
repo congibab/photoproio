@@ -3,10 +3,46 @@
 * 所属 : 東京デザインテクノロジーセンター専門学校、ゲームプログラマー専攻、3年生 
 
 ## スキル
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<!--
+|   言語   |      期間      |  <=>  |       ツール       |      期間      |
+| :------: | :------------: | :---: | :----------------: | :------------: |
+|    C#    | 2019.05 ~ 現在 |  <=>  |       Unity        | 2019.05 ~ 現在 |
+|   C++    | 2020.08 ~ 現在 |  <=>  |   Visual Studio    | 2019.05 ~ 現在 |
+|   GLSL   | 2020.08 ~ 現在 |  <=>  | Visual Studio Code | 2020.08 ~ 現在 |
+| Node.js  | 2020.11 ~ 現在 |  <=>  |       Linux        | 2020.08 ~ 現在 |
+| Markdown | 2020.12 ~ 現在 |  <=>  |      Jenkins       | 2020.12 ~ 現在 |
+|   PHP    | 2021.03 ~ 現在 |  <=>  |       Docker       | 2021.03 ~ 現在 |
+-->
+<table style="width:100%">
+  <tr>
+    <th>言語</th> <th>期間</th> <th><=></th> <th>ツール</th> <th>期間</th>
+  </tr>
+
+  <tr>
+    <td>C#</td> <td>2019.05 ~ 現在</td> <td><=></td> <td>Unity</td> <td>2019.05 ~ 現在</td>
+  </tr>
+  
+  <tr>
+    <td>C++</td> <td>2020.08 ~ 現在</td> <td><=></td> <td>Visual Studio</td> <td>2019.05 ~ 現在</td>
+  </tr>
+  
+  <tr>
+    <td>GLSL</td> <td>2020.08 ~ 現在</td> <td><=></td> <td>Visual Studio Code</td> <td>2020.08 ~ 現在</td>
+  </tr>
+  
+  <tr>
+    <td>Node.js</td> <td>2020.11 ~ 現在</td> <td><=></td> <td>Linux</td> <td>2020.08 ~ 現在</td>
+  </tr>
+
+  <tr>
+    <td>Markdown</td> <td>2020.12 ~ 現在</td> <td><=></td> <td>Jenkins</td> <td>2020.12 ~ 現在</td>
+  </tr>
+  
+  <tr>
+    <td>PHP</td> <td>2021.03 ~ 現在</td> <td><=></td> <td>Docker</td> <td>2021.03 ~ 現在</td>
+  </tr>
+</table>
+
 
 # 目次
 
