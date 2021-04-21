@@ -50,8 +50,7 @@
 ## 1.OpenGL_Game
 <img src="https://img.youtube.com/vi/C13nFixrUdM/0.jpg" width= "50%" height="50%">
 
-### 製作期間
-
+* 製作期間 : 2020年10月~2020年12月
 * コンセプト : オブジェクト生清とPost processingを実装したプログラムです。
 * 製作意図 : 3Dグラフィックス研究目的です。  
 * 使用言語 : C++, GLSL  
@@ -62,6 +61,7 @@
 ## 2.UnityServer
 <img src="https://img.youtube.com/vi/Q4Arop1ba_M/0.jpg" width= "50%" height="50%">
 
+* 製作期間 : 2020年10月~2020年12月
 * コンセプト : レンタルサーバーとUnityで使ったネットワークゲームです。  
 * 製作意図 : Linux、Node.js研究目的です。
 * 使用言語 : Node.js, C#  
@@ -72,6 +72,7 @@
 ## 3.Frist-imgui-glfw3
 <img src="https://img.youtube.com/vi/h1-rcwjNfMk/0.jpg" width= "50%" height="50%">
 
+* 製作期間 : 2021-01 ~ 未定
 * コンセプト : UIを具現してパラメータ修正でShaderを制御するプログラムです。
 * 製作意図 : GLSL, Geometry Shader研究目的です。  
 * 使用言語 : C++, GLSL  
@@ -82,6 +83,7 @@
 ## 4.Hello_bullet_Engine
 <img src="https://img.youtube.com/vi/LPJUOyeQz5w/0.jpg" width= "50%" height="50%">
 
+* 製作期間 : 2020.02.26 ~ 未定
 * コンセプト : OpenGLとBullet Physicsを使った物理演算プログラムです。
 * 製作意図 : 物理エンジンライブラリ研究目的です。  
 * 使用言語 : C++  
@@ -92,6 +94,7 @@
 ## 5.Upload-Tool
 <img src="https://img.youtube.com/vi/f2tdzeMfCnM/0.jpg" width= "50%" height="50%">
 
+* 製作期間 : 4月6日 ~ 4月9日
 * コンセプト : イメージデータをData Baseへアップロードするツールです。
 * 製作意図 : プランナーがData Baseを管理出来るようにする為に、ツールを作りました。
 * 使用言語 : PHP, HTML5  
@@ -101,6 +104,7 @@
 ## 6.WindowForm
 <img src="https://img.youtube.com/vi/AXCVxSYtJSU/0.jpg" width= "50%" height="50%">
 
+* 製作期間 : 2021年4月8日 ~ 2021年4月10日
 * コンセプト : HTTP通信を使ってData Baseからイメージを取得するプログラムです。
 * 製作意図 : ツール開発の研究目的です。  
 * 使用言語 : C#  
