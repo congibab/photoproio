@@ -1,7 +1,10 @@
 # 水墨鳥獣
 
 ## 制作理由
-チーム製作の経験する為の学校の授業です。
+* チーム製作の経験する為の学校の授業です。
+
+## ジャンル
+* タワーディフェンス
 
 ## 実行環境
 * iOS
@@ -20,15 +23,60 @@
 
 ## 動画(YouTube)
 
-# 主な担当
+# 主な担当(プログラマー)
 
 ## UI全般
-<img src="doc/RabbitFrog_UI.jpg" width= "50%" height="50%">
+<img src="doc/RabbitFrog_UI.JPG" width= "49%" height="50%">
+<img src="doc/RabbitFrog_UI2.JPG" width= "49%" height="50%">
+
+### スタート確認画面スクリプト
+```C#
+ublic void NextScene()
+{
+    StartCoroutine(effect_sketch.NextScene(StageSelectControl.NextScene));
+    DeckManager.SetDeckObject();
+    confirmCanvas.rootCanvas.enabled = !confirmCanvas.rootCanvas.enabled;
+}
+
+public void Cencle()
+{
+    confirmCanvas.rootCanvas.enabled = !confirmCanvas.rootCanvas.enabled;
+}
+```
 
 ## プレイヤースキル
+<img src="doc/RabbitFrog_skill.JPG" width= "50%" height="50%">
 
-## エフェクト(動画で参照)
+* マウス左クリックして直線や丸を書くことができる。
+* 直線を書くと敵を止める壁を生成(黄色のボックス)
+* 丸を書くと敵を吹き込むオブジェクトを生成(赤いボックス)
 
+### 直線、丸を判定する。スクリプト
+```C#
+//マウスをドラッグして線が終わる地点を決める
+if (Input.GetMouseButton(0) && is_Drawing)
+{
+
+    endPos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,
+                                                        Input.mousePosition.y,
+                                                       -Camera.main.transform.position.z));
+
+    if (!draw_able()) return;
+    //マウスを動かないとlistの追加をしない
+    if (Vector2.Distance(tempPos, endPos) < 0.5f) return;
+
+    Points.Add(endPos);
+    Points_X.Add(endPos);
+    Points_Y.Add(endPos);
+
+    Drawing_obj.transform.position = endPos;
+    mouce_obj.transform.position = endPos;
+    tempPos = endPos;
+}
+```
+
+## エフェクト(動画参照)
+* [sss](sss)
 ### 巻物を開く、閉じるエフェクト
 ```C#
 public IEnumerator Open(RectTransform ObjTarget)
@@ -61,9 +109,10 @@ public IEnumerator Close(RectTransform ObjTarget)
     OptionController.is_runing = false;
 }
 ```
-
 ## 会話シーン全般
-<img src="doc/RabbitFrog_Scenario.jpg" width= "50%" height="50%">
+<img src="doc/RabbitFrog_Scenario.JPG" width= "50%" height="50%">
+
+* プランナーがExcelで作業した会話データを適用
 
 ### 会話データ(CSV)をUnityで読み込む、スクリプト
 ```C#
