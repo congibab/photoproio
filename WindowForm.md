@@ -33,7 +33,7 @@
 # ソースコード(Form1.cs)
 
 ## Button Click Event
-```C#
+```csharp
     private void button1_Click(object sender, EventArgs e)
     {
         string url = "http://localhost/Gachar.php";
@@ -50,7 +50,7 @@
 <div style="page-break-before:always"></div> 
 
 ## イメージ情報を取得
-```C#
+```csharp
     private Person GetJsonData(string url)
     {
         try
@@ -78,7 +78,7 @@
 ```
 
 ## イメージ表示
-```C#
+```csharp
     private Image GetImage(string url)
     {
         using (WebClient client = new WebClient())
