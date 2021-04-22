@@ -30,7 +30,7 @@
 <img src="doc/RabbitFrog_UI2.JPG" width= "49%" height="50%">
 
 ### スタート確認画面スクリプト
-```C#
+```csharp
 ublic void NextScene()
 {
     StartCoroutine(effect_sketch.NextScene(StageSelectControl.NextScene));
@@ -52,7 +52,7 @@ public void Cencle()
 * 丸を書くと敵を吹き込むオブジェクトを生成(赤いボックス)
 
 ### 直線、丸を判定する。スクリプト
-```C#
+```csharp
 //マウスをドラッグして線が終わる地点を決める
 if (Input.GetMouseButton(0) && is_Drawing)
 {
@@ -79,7 +79,7 @@ if (Input.GetMouseButton(0) && is_Drawing)
 * [sss](sss)
 
 ### 巻物を開く、閉じるエフェクト
-```C#
+```csharp
 public IEnumerator Open(RectTransform ObjTarget)
 {
     OptionController.is_runing = true;
@@ -113,7 +113,7 @@ public IEnumerator Close(RectTransform ObjTarget)
 * プランナーがExcelで作業した会話データを適用
 
 ### 会話データ(CSV)をUnityで読み込む、スクリプト
-```C#
+```csharp
 void CSVReader(string CSVPATH,
                 List<string> text,
                 List<string> Name,

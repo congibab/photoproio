@@ -54,7 +54,7 @@ UnityServer
 ```
 
 # server実行
-```bash
+``` bat
 cd <your Path>/UnityServer/Server
 node index.js
 //実行画面=====================================================
