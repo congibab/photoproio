@@ -177,12 +177,6 @@ io.on('connection', function (socket) {
 # Client source code(簡略)
 ``` csharp 
 //NetworkManager.cs
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using SocketIO;
-using System;
-
     private void Start()
     {
         socket.On("open", (SocketIOEvent e) => { 
@@ -217,7 +211,7 @@ using System;
 # Jenkinsで自動配信
 
 <p align="center">
-<img src="./doc/jenkins.JPG" width= "48%">
+<img src="./doc/jenkins.JPG" width= "60%">
 </p>
 
 Githubでdata push -> Jenkins foreverでサーバ更新して再起動 -> Slackに通常  
