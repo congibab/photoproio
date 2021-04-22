@@ -77,6 +77,7 @@ if (Input.GetMouseButton(0) && is_Drawing)
 
 ## エフェクト(動画参照)
 * [sss](sss)
+
 ### 巻物を開く、閉じるエフェクト
 ```C#
 public IEnumerator Open(RectTransform ObjTarget)
@@ -92,10 +93,7 @@ public IEnumerator Open(RectTransform ObjTarget)
     OptionController.is_runing = false;
 }
 
-/// <summary>
-/// 編成画面を閉じる処理
-/// </summary>
-/// <returns></returns>
+// 編成画面を閉じる処理
 public IEnumerator Close(RectTransform ObjTarget)
 {
     OptionController.is_runing = true;
