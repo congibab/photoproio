@@ -76,7 +76,7 @@ if (Input.GetMouseButton(0) && is_Drawing)
 ```
 
 ## エフェクト(動画参照)
-* [sss](sss)
+* [動画](https://www.youtube.com/watch?v=mxTw6bZQGsE#t=22s)
 
 ### 巻物を開く、閉じるエフェクト
 ```csharp

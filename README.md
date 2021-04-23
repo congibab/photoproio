@@ -57,7 +57,7 @@
 * 使用言語 : C#  
 * [ソースコード](./RabbitFrog)  
 * [GitHub](https://github.com/kumamoooooon0202/RabbitFrog.git)
-* [YouTube動画](作業中)▶️ **(作業中)**
+* [YouTube動画](https://youtu.be/mxTw6bZQGsE)▶️ **(字幕あり)**
 
 ## 2.OpenGL_Game
 <img src="https://img.youtube.com/vi/C13nFixrUdM/0.jpg" width= "50%" height="50%">
