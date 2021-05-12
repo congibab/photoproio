@@ -22,7 +22,7 @@ Sample Codeとクラスを制作しました。
 * Client間のマッチング (2人制限)
 
 ## 動画(YouTube)
-* https://youtu.be/fKeTiaLIYA8
+* [https://youtu.be/fKeTiaLIYA8](https://youtu.be/fKeTiaLIYA8)
 
 ## 製作人数
 * 個人
