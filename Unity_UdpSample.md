@@ -51,7 +51,9 @@ Sample Codeとクラスを制作しました。
 * サーバーへの送受信を担当
 
 ```csharp
+//サーバーと接続(サーバーIp, サーバーPort)
 void Connect(string Adddrass, int Port);
+//サーバへデータを送信
 void Data_Send(JsonOBJ Massage);
 ```
 
