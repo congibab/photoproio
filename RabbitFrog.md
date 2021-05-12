@@ -22,6 +22,7 @@
 * 10人
 
 ## 動画(YouTube)
+[https://www.youtube.com/watch?v=mxTw6bZQGsE](https://www.youtube.com/watch?v=mxTw6bZQGsE)
 
 # 主な担当(プログラマー)
 

@@ -133,7 +133,7 @@
 
 * 製作期間 : 2021.5.9 ~ 2021.5.11
 * コンセプト : UnityでUDP通信テスト、クラス化練習です。
-* 製作意図 : 他の学生さんにもUDP通信を使えるように、クラス化しました。
+* 製作意図 : 他の学生さんにもUnityでUDP通信を使えるように、クラス化しました。
 * 使用言語 : C#, Node.js
 * [ソースコード](./Unity_UdpSample)  
 * [GitHub](https://github.com/congibab/Unity_UdpSample)
