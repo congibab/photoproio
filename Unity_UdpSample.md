@@ -49,12 +49,10 @@ Sample Codeとクラスを制作しました。
 
 ## NetworkManager.cs
 * サーバーへの送受信を担当
-```csharp
-//サーバーと接続(サーバーIp, サーバーPort)
-void Connect(string Adddrass, int Port)
 
-//サーバへデータを送信
-public void Data_Send(JsonOBJ Massage);
+```csharp
+void Connect(string Adddrass, int Port);
+void Data_Send(JsonOBJ Massage);
 ```
 
 ```csharp
@@ -106,8 +104,9 @@ public class inform
     public Vector3 rot;
     public Vector3 scal;
 }
+```
 
-
+```csharp
 [Serializable]
 public class JsonOBJ
 {
