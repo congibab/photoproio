@@ -1,4 +1,6 @@
-theme: jekyll-theme-architect
+theme: monophase
 
 plugins:
-  - jemoji
+  - jekyll-remote-theme
+
+remote_theme: zivhub/monophase@main
