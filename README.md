@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcongibab.github.io%2Fportfolio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# webサイト 移管中(引っ越し)
-[https://congibab.github.io/Developer-Blog/](https://congibab.github.io/Developer-Blog/)
+# webサイト 移管完了(2021-06-16)
+[https://congibab.github.io/Developer-Blog/](https://congibab.github.io/Developer-Blog/Portfolio/)
 
 # プロフィール
 * 名前 : LEE GEONHWI(イ ゴンヒ)
