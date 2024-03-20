@@ -1,23 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcongibab.github.io%2Fportfolio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# webサイト 移管完了(2021-06-16)
-[https://congibab.github.io/Developer-Blog/](https://congibab.github.io/Developer-Blog/Portfolio/)
-
-# プロフィール
-* 名前 : LEE GEONHWI(イ ゴンヒ)
-* 所属 : 東京デザインテクノロジーセンター専門学校 
-* 専攻 : ゲームプログラマー専攻、3年生 
-
 ## スキル
 <!--
 |   言語   |      期間      |  <=>  |       ツール       |      期間      |
 | :------: | :------------: | :---: | :----------------: | :------------: |
 |    C#    | 2019.05 ~ 現在 |  <=>  |       Unity        | 2019.05 ~ 現在 |
-|   C++    | 2020.08 ~ 現在 |  <=>  |   Visual Studio    | 2019.05 ~ 現在 |
-|   GLSL   | 2020.08 ~ 現在 |  <=>  | Visual Studio Code | 2020.08 ~ 現在 |
-| Node.js  | 2020.11 ~ 現在 |  <=>  |       Linux        | 2020.08 ~ 現在 |
-| Markdown | 2020.12 ~ 現在 |  <=>  |      Jenkins       | 2020.12 ~ 現在 |
-|   PHP    | 2021.03 ~ 現在 |  <=>  |       Docker       | 2021.03 ~ 現在 |
 -->
 <table style="width:100%">
   <tr>
