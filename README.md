@@ -14,26 +14,6 @@
   <tr>
     <td>C#</td> <td>2019.05 ~ 現在</td> <td><=></td> <td>Unity</td> <td>2019.05 ~ 現在</td>
   </tr>
-
-  <tr>
-    <td>C++</td> <td>2020.08 ~ 現在</td> <td><=></td> <td>Visual Studio</td> <td>2019.05 ~ 現在</td>
-  </tr>
-
-  <tr>
-    <td>GLSL</td> <td>2020.08 ~ 現在</td> <td><=></td> <td>Visual Studio Code</td> <td>2020.08 ~ 現在</td>
-  </tr>
-
-  <tr>
-    <td>Node.js</td> <td>2020.11 ~ 現在</td> <td><=></td> <td>Linux</td> <td>2020.08 ~ 現在</td>
-  </tr>
-
-  <tr>
-    <td>Markdown</td> <td>2020.12 ~ 現在</td> <td><=></td> <td>Jenkins</td> <td>2020.12 ~ 現在</td>
-  </tr>
-
-  <tr>
-    <td>PHP</td> <td>2021.03 ~ 現在</td> <td><=></td> <td>Docker</td> <td>2021.03 ~ 現在</td>
-  </tr>
 </table>
 
 
